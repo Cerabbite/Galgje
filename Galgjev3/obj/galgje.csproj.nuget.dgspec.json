@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\Galgje\\Galgjev3\\galgje.csproj": {}
+    "D:\\GitHub\\School\\Fontys\\software\\Galgjev3\\Galgjev3\\galgje.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\Galgje\\Galgjev3\\galgje.csproj": {
+    "D:\\GitHub\\School\\Fontys\\software\\Galgjev3\\Galgjev3\\galgje.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\Galgje\\Galgjev3\\galgje.csproj",
+        "projectUniqueName": "D:\\GitHub\\School\\Fontys\\software\\Galgjev3\\Galgjev3\\galgje.csproj",
         "projectName": "galgje",
-        "projectPath": "D:\\GitHub\\Galgje\\Galgjev3\\galgje.csproj",
+        "projectPath": "D:\\GitHub\\School\\Fontys\\software\\Galgjev3\\Galgjev3\\galgje.csproj",
         "packagesPath": "C:\\Users\\ruudg\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\Galgje\\Galgjev3\\obj\\",
+        "outputPath": "D:\\GitHub\\School\\Fontys\\software\\Galgjev3\\Galgjev3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ruudg\\AppData\\Roaming\\NuGet\\NuGet.Config",
