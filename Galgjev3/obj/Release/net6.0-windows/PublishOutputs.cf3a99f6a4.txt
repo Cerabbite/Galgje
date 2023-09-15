@@ -1,0 +1,5 @@
+C:\Users\ruudg\Downloads\GalgjeHorror\galgje.exe
+C:\Users\ruudg\Downloads\GalgjeHorror\galgje.dll
+C:\Users\ruudg\Downloads\GalgjeHorror\galgje.deps.json
+C:\Users\ruudg\Downloads\GalgjeHorror\galgje.runtimeconfig.json
+C:\Users\ruudg\Downloads\GalgjeHorror\galgje.pdb
