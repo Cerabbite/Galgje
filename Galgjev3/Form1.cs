@@ -59,6 +59,7 @@ namespace Galgjev3
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
+            var_class.duplicate_input = false;
             Debug.WriteLine("The START");
 
             if (is_game_over())
@@ -133,7 +134,7 @@ namespace Galgjev3
                     var_class.wrong_guesses++;
                 }
                 
-                this.img_galgje.ImageLocation = $"Images\\{var_class.wrong_guesses}.png";
+                this.img_galgje.ImageLocation = $".\\images\\{var_class.wrong_guesses}.png";
                 var_class.wrong_letters += userInput;
                 this.lbl_output.Text = var_class.wrong_letters;
 
@@ -237,7 +238,7 @@ namespace Galgjev3
             var_class.woord_geraden = false;
 
             var_class.correct_output = "";
-            this.img_galgje.ImageLocation = "images\\-1.png";
+            this.img_galgje.ImageLocation = ".\\images\\-1.png";
             var_class.wrong_guesses = -1;
             var_class.wrong_letters = "";
 
